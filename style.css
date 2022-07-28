@@ -3,10 +3,7 @@ body{
     color: red;
     background-color: black;
 }
-div.header{
-    margin-top: 50%;
-    margin-bottom:  50%;
-}
+
 h1{
     text-align: center;
     color: aliceblue;
